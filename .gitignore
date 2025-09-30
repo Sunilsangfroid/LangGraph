@@ -6,3 +6,4 @@
 /myenv
 .env
 /chatbots-in-langgraph/path.txt
+/chatbots-in-langgraph/.env
